@@ -4,4 +4,4 @@
 2.深度学习分类任务   
 3.深度学习分割任务   
 4.传统影像组学特征联合深度学习特征分类任务 
- 功能更新日志（https://p.kdocs.cn/s/SROPMBAAIA）
+ 功能更新日志：https://p.kdocs.cn/s/SROPMBAAIA
