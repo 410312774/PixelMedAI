@@ -17,7 +17,7 @@ XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance sy
 
 
 ## PixelMed AI（影像诊断小札记）既往客户名单
-1.江苏省人民医院（南京医科大学第一附属医院）
+1.江苏省人民医院（南京医科大学第一附属医院）  
 2.上海市肺科医院  
 3.南京医科大学附属逸夫医院  
 4.核工业总医院（苏州大学附属第二医院）  
