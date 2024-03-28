@@ -13,7 +13,8 @@ Zhang J, Xia L, Liu J, et al. Exploring Deep Learning Radiomics for Classifying 
 
 
 ## PixelMed AI开发版提供技术支持的文章：
-XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.
+XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
+Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer based on DCE-MRI multi-phase full-volume ROI clinical radiomics model[J]. Acta Radiologica, 2023: 02841851231215145.
 
 
 ## PixelMed AI（影像诊断小札记）既往客户名单
