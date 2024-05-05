@@ -11,6 +11,8 @@ Zhang J, Xia L, Tang J, et al. Constructing a Deep Learning Radiomics Model Base
 
 Zhang J, Xia L, Liu J, et al. Exploring Deep Learning Radiomics for Classifying Osteoporotic Vertebral Fractures in X-ray Images[J]. Frontiers in Endocrinology, 2024, 15: 1370838.
 
+Zhang Y, Zou Y, Tan W, et al. Value of radiomics-based automatic grading of muscle edema in polymyositis/dermatomyositis based on MRI fat-suppressed T2-weighted images[J]. Acta Radiologica, 2024: 02841851241244507.
+
 
 ## PixelMed AI开发版提供技术支持的文章：
 XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
