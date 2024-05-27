@@ -6,6 +6,8 @@
 4.传统影像组学特征联合深度学习特征分类任务 
  功能更新日志：https://p.kdocs.cn/s/SROPMBAAIA
 
+近期代码重构，未来升级更简洁的使用方式。
+
 ## 明确致谢PixelMed AI的文章：
 Zhang J, Xia L, Tang J, et al. Constructing a Deep Learning Radiomics Model Based on X-ray Images and Clinical Data for Predicting and Distinguishing Acute and Chronic Osteoporotic Vertebral Fractures: A Multicenter Study[J]. Academic Radiology, 2023.
 
