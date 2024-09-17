@@ -24,13 +24,16 @@ Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer ba
 Xia F, Wei W, Wang J, et al. Machine learning model for non-alcoholic steatohepatitis diagnosis based on ultrasound radiomics[J]. BMC Medical Imaging, 2024, 24(1): 1-11.
 
 ## PixelMed AI（影像诊断小札记）既往客户名单
-1.江苏省人民医院（南京医科大学第一附属医院）  
-2.上海市肺科医院  
-3.南京医科大学附属逸夫医院  
-4.核工业总医院（苏州大学附属第二医院）  
-4.芜湖弋矶山医院  
-5.马鞍山市人民医院  
-6.哈尔滨医科大学附属第二医院  
-7.甘肃省人民医院  
-8.广州红十字会医院  
+1.江苏省人民医院（南京医科大学第一附属医院）
+2.上海市肺科医院
+3.南京医科大学附属逸夫医院
+4.核工业总医院（苏州大学附属第二医院）
+4.芜湖弋矶山医院
+5.马鞍山市人民医院
+6.哈尔滨医科大学附属第二医院
+7.甘肃省人民医院
+8.广州红十字会医院
 9.海南医学院
+10.台州恩泽医疗中心（集团）
+11.佛山市第一人民医院
+12.哈尔滨医科大学附属肿瘤医院
