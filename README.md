@@ -17,6 +17,7 @@ Zhang Y, Zou Y, Tan W, et al. Value of radiomics-based automatic grading of musc
 
 Zhang, J., Xia, L., Zhang, X. et al. Development and validation of a predictive model for vertebral fracture risk in osteoporosis patients. Eur Spine J (2024). https://doi.org/10.1007/s00586-024-08235-4
 
+Xia, L., Zhang, J., Liang, Z. et al. Shapley-based saliency maps improve interpretability of vertebral compression fractures classification: multicenter study. Radiol med (2025). https://doi.org/10.1007/s11547-025-01968-2
 
 ## PixelMed AI开发版提供技术支持的文章：
 XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
