@@ -21,6 +21,8 @@ Xia, L., Zhang, J., Liang, Z. et al. Shapley-based saliency maps improve interpr
 
 Yin, Y., Jia, S., Zheng, J. et al. Deep learning radiomics of left atrial appendage features for predicting atrial fibrillation recurrence. BMC Med Imaging 25, 186 (2025). https://doi.org/10.1186/s12880-025-01740-y
 
+Tang X, Zhuang Z, Jiang L, et al. A Preoperative CT-based Multiparameter Deep Learning and Radiomic Model with Extracellular Volume Parameter Images Can Predict the Tumor Budding Grade in Rectal Cancer Patients[J]. Academic Radiology, 2025.
+
 ## PixelMed AI开发版提供技术支持的文章：
 XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
 Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer based on DCE-MRI multi-phase full-volume ROI clinical radiomics model[J]. Acta Radiologica, 2023: 02841851231215145.
