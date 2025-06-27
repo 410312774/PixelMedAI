@@ -25,7 +25,7 @@ Tang X, Zhuang Z, Jiang L, et al. A Preoperative CT-based Multiparameter Deep Le
 
 ## PixelMed AI开发版提供技术支持的文章：
 XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
-Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer based on DCE-MRI multi-phase full-volume ROI clinical radiomics model[J]. Acta Radiologica, 2023: 02841851231215145.
+Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer based on DCE-MRI multi-phase full-volume ROI clinical radiomics model[J]. Acta Radiologica, 2023: 02841851231215145.  
 Xia F, Wei W, Wang J, et al. Machine learning model for non-alcoholic steatohepatitis diagnosis based on ultrasound radiomics[J]. BMC Medical Imaging, 2024, 24(1): 1-11.  
 
 Multi-Parameter MRI Deep Learning Model for Lymphovascular Invasion Assessment in Invasive Breast Ductal Carcinoma: a Multicenter, Retrospective Study.https://doi.org/10.1016/j.crad.2025.107002  
