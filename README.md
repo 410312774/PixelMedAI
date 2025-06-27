@@ -28,7 +28,9 @@ XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance sy
 Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer based on DCE-MRI multi-phase full-volume ROI clinical radiomics model[J]. Acta Radiologica, 2023: 02841851231215145.
 Xia F, Wei W, Wang J, et al. Machine learning model for non-alcoholic steatohepatitis diagnosis based on ultrasound radiomics[J]. BMC Medical Imaging, 2024, 24(1): 1-11.  
 
-Multi-Parameter MRI Deep Learning Model for Lymphovascular Invasion Assessment in Invasive Breast Ductal Carcinoma: a Multicenter, Retrospective Study.https://doi.org/10.1016/j.crad.2025.107002
+Multi-Parameter MRI Deep Learning Model for Lymphovascular Invasion Assessment in Invasive Breast Ductal Carcinoma: a Multicenter, Retrospective Study.https://doi.org/10.1016/j.crad.2025.107002  
+
+Yang X, Wang J, Wang P, et al. Deep learning model using CT images for longitudinal prediction of benign and malignant ground-glass nodules[J]. European Journal of Radiology, 2025.
 
 ## PixelMed AI（影像诊断小札记）既往客户名单
 1.江苏省人民医院（南京医科大学第一附属医院）
