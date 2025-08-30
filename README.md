@@ -52,4 +52,5 @@ Yang X, Wang J, Wang P, et al. Deep learning model using CT images for longitudi
 14.浙江大学医学院附属第四医院
 15.江苏大学附属医院
 16.中国医学科学院肿瘤医院
-17.徐州市第一人民医院
+17.徐州市第一人民医院  
+18.宜昌市中心人民医院
