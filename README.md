@@ -24,6 +24,7 @@ Yin, Y., Jia, S., Zheng, J. et al. Deep learning radiomics of left atrial append
 Tang X, Zhuang Z, Jiang L, et al. A Preoperative CT-based Multiparameter Deep Learning and Radiomic Model with Extracellular Volume Parameter Images Can Predict the Tumor Budding Grade in Rectal Cancer Patients[J]. Academic Radiology, 2025.  
 
 He Y, Wei J, Sun Y, et al. A multimodal deep learning radiomics model for predicting degenerative meniscus tear after arthroscopy[J]. PLoS One, 2025, 20(8): e0328299.  
+
 Liu J, Zhang L, Yuan Y, Tang J, Liu Y, Xia L, Zhang J.Deep Learning Radiomics Model Based on Computed Tomography Image for Predicting the Classification of Osteoporotic Vertebral Fractures: Algorithm Development and Validation JMIR Med Inform 2025;13:e75665.doi: 10.2196/75665
 
 ## PixelMed AI开发版提供技术支持的文章：
