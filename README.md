@@ -28,7 +28,8 @@ He Y, Wei J, Sun Y, et al. A multimodal deep learning radiomics model for predic
 Liu J, Zhang L, Yuan Y, Tang J, Liu Y, Xia L, Zhang J.Deep Learning Radiomics Model Based on Computed Tomography Image for Predicting the Classification of Osteoporotic Vertebral Fractures: Algorithm Development and Validation JMIR Med Inform 2025;13:e75665.doi: 10.2196/75665  
 Liu J, Sun P, Yuan Y, Chen Z, Tian K, Gao Q, Li X, Xia L, Zhang J, Xu N. YOLOv12 Algorithm-Aided Detection and Classification of Lateral Malleolar Avulsion Fracture and Subfibular Ossicle Based on CT Images: A Multicenter Study. JMIR Med Inform. 2025 Sep 9. doi: 10.2196/79064. Epub ahead of print. PMID: 40924436.  
 
-Ling X, Yang X, Wang P, Li Y, Wen Z, Wang J, Chen K, Yu Y, Liu A, Ma J, Meng W. Intratumoral and peritumoral heterogeneity based on CT to predict the pathological response after neoadjuvant chemoimmunotherapy in esophageal squamous cell carcinoma. Int J Surg. 2025 Sep 19. doi: 10.1097/JS9.0000000000003422. Epub ahead of print. PMID: 40968727.
+Ling X, Yang X, Wang P, Li Y, Wen Z, Wang J, Chen K, Yu Y, Liu A, Ma J, Meng W. Intratumoral and peritumoral heterogeneity based on CT to predict the pathological response after neoadjuvant chemoimmunotherapy in esophageal squamous cell carcinoma. Int J Surg. 2025 Sep 19. doi: 10.1097/JS9.0000000000003422. Epub ahead of print. PMID: 40968727.  
+Xia L, Qi X, Liu J, et al. Accurate multi-b-value DWI generation using two-stage deep learning: multicenter study[J]. European Journal of Radiology, 2025: 112497.
 
 ## PixelMed AI开发版提供技术支持的文章：
 XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
