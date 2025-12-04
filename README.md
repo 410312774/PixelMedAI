@@ -35,6 +35,8 @@ Liu J, Sun P, Yuan Y, et al. YOLOv12 Algorithm-Aided Detection and Classificatio
 
 Li F, Liu R, Cao J, et al. Integrating Multiphase MRI Surrogates to Improve Microvascular Invasion Detection and Recurrence Risk Stratification in HCC[J]. JHEP Reports, 2025: 101682.  
 
+Miao L, Zhao H, Zhang X, et al. Enhancing post-TIPS hepatic encephalopathy risk stratification: a hybrid TabPFN model leveraging radiomics, deep transfer learning features, and MELD score[J]. Hepatology International, 2025: 1-13.  
+
 ## PixelMed AI开发版提供技术支持的文章：
 XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
 Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer based on DCE-MRI multi-phase full-volume ROI clinical radiomics model[J]. Acta Radiologica, 2023: 02841851231215145.  
