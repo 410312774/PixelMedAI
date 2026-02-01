@@ -1,5 +1,3 @@
-## README.md（可直接放 GitHub）
-
 # MobileNetV2-SE (3D) in PyTorch
 
 A lightweight **MobileNetV2** backbone enhanced with a **channel attention mechanism** (SE, Squeeze-and-Excitation) to improve feature extraction and classification performance on 3D medical imaging data.
