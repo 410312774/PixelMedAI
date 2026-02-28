@@ -46,6 +46,9 @@ Multi-Parameter MRI Deep Learning Model for Lymphovascular Invasion Assessment i
 
 Yang X, Wang J, Wang P, et al. Deep learning model using CT images for longitudinal prediction of benign and malignant ground-glass nodules[J]. European Journal of Radiology, 2025.
 
+
+Jia S, Yin Y, Guan Y, Ying X, Shi P, Li C, Yang Q, Mou X, Lin J, Xu Q, Zhu Q, Yang Y, Zhang H, Zhao J, Lin W, Feng C, Ge W, Xia S. A deep learning model integrating structured data and clinical text for predicting atrial fibrillation recurrence. NPJ Digit Med. 2026 Feb 16. doi: 10.1038/s41746-026-02436-5. Epub ahead of print. PMID: 41699044.
+
 ## PixelMed AI（影像诊断小札记）既往客户名单
 1.江苏省人民医院（南京医科大学第一附属医院）
 2.上海市肺科医院
