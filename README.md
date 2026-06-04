@@ -37,6 +37,8 @@ Li F, Liu R, Cao J, et al. Integrating Multiphase MRI Surrogates to Improve Micr
 
 Miao L, Zhao H, Zhang X, et al. Enhancing post-TIPS hepatic encephalopathy risk stratification: a hybrid TabPFN model leveraging radiomics, deep transfer learning features, and MELD score[J]. Hepatology International, 2025: 1-13.  
 
+Jiang, G., Sun, X., Zhu, Y. et al. Radiomics model integrating MRI and ECV enhances prediction accuracy for progression in high-grade glioma. npj Precis. Onc. (2026). https://doi.org/10.1038/s41698-026-01475-1
+
 ## PixelMed AI开发版提供技术支持的文章：
 XIA L, LIANG Z P, ZHANG J. Research on the method of brain magnetic resonance synthetic DWI generation based on the cycle generative adversarial network[J]. Chin J Magn Reson Imaging, 2023, 14(7): 121-126.  
 Qi X, Wang W, Pan S, et al. Predictive value of triple negative breast cancer based on DCE-MRI multi-phase full-volume ROI clinical radiomics model[J]. Acta Radiologica, 2023: 02841851231215145.  
