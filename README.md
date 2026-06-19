@@ -38,7 +38,7 @@ Li F, Liu R, Cao J, et al. Integrating Multiphase MRI Surrogates to Improve Micr
 Miao L, Zhao H, Zhang X, et al. Enhancing post-TIPS hepatic encephalopathy risk stratification: a hybrid TabPFN model leveraging radiomics, deep transfer learning features, and MELD score[J]. Hepatology International, 2025: 1-13.  
 
 Jiang, G., Sun, X., Zhu, Y. et al. Radiomics model integrating MRI and ECV enhances prediction accuracy for progression in high-grade glioma. npj Precis. Onc. (2026). https://doi.org/10.1038/s41698-026-01475-1  
-Sun P, Wang J, Yuan Y ...Deep learning for radiographic differentiation between lateral malleolar avulsion fractures and subfibular ossicles iScience, 2026; 29 DOI: 10.1016/j.isci.2026.116414 External Link
+Sun P, Wang J, Yuan Y ...Deep learning for radiographic differentiation between lateral malleolar avulsion fractures and subfibular ossicles iScience, 2026; 29 DOI: 10.1016/j.isci.2026.116414 
 
 
 ## PixelMed AI开发版提供技术支持的文章：
