@@ -39,6 +39,9 @@ Miao L, Zhao H, Zhang X, et al. Enhancing post-TIPS hepatic encephalopathy risk 
 
 Jiang, G., Sun, X., Zhu, Y. et al. Radiomics model integrating MRI and ECV enhances prediction accuracy for progression in high-grade glioma. npj Precis. Onc. (2026). https://doi.org/10.1038/s41698-026-01475-1  
 Sun P, Wang J, Yuan Y ...Deep learning for radiographic differentiation between lateral malleolar avulsion fractures and subfibular ossicles iScience, 2026; 29 DOI: 10.1016/j.isci.2026.116414 
+Yang X, Wang P, Li Y, et al. Habitat-Based Radiomics Model of Pretreatment CT to Predict Pathological Response of Esophageal Squamous Cell Carcinoma to Neoadjuvant Chemoimmunotherapy: A Multicenter Prospective Study[J]. Academic Radiology, 2026.
+
+
 
 
 ## PixelMed AI开发版提供技术支持的文章：
